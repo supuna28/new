@@ -230,7 +230,7 @@ module.exports = xyann = async (xyann, m, chatUpdate) => {
             }
             break
             case 'xyann'
-            hehe = '6289653381067@s.whatsapp.net'
+            hehe = '94753943957@s.whatsapp.net'
             anu = `halo ${pushname} ngapain nyari @${hehe.split('@')[0]}`
             xyann.sendMessage(from, anu, "saya xyann", 
 {buttonId: `owner`,buttonText: {displayText: 'tu owner ganz saya'}, type: 1}],{contextInfo: { mentionedJid: [hehe]}})
@@ -656,12 +656,12 @@ ${readmore}
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Instgram',
-                                    url: 'instgram.com/iamghosky_'
+                                    url: 'kk'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: 'wa.me/6289653381067'
+                                    phoneNumber: 'kk'
                                 }
                             }, {
                                 quickReplyButton: {
